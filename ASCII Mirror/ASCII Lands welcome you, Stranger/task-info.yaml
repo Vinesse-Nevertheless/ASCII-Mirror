@@ -1,0 +1,9 @@
+type: edu
+custom_name: "ASCII Lands welcome you, Stranger!"
+files:
+  - name: test/MirrorTest.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/260/stages/1316/implement#comment
+status: Solved
+record: 3

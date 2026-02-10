@@ -1,0 +1,35 @@
+type: edu
+files:
+  - name: src/asciimirror/Main.java
+    visible: true
+    learner_created: false
+  - name: src/asciimirror/ASCII_Animals/MooFolder/Cow.txt
+    visible: true
+    learner_created: false
+  - name: src/asciimirror/ASCII_Animals/HumphFolder/Camel.txt
+    visible: true
+    learner_created: false
+  - name: test/example1.txt
+    visible: true
+    learner_created: false
+  - name: test/example2.txt
+    visible: true
+    learner_created: false
+  - name: test/example3.txt
+    visible: true
+    learner_created: false
+  - name: test/example4.txt
+    visible: true
+    learner_created: false
+  - name: test/example5.txt
+    visible: true
+    learner_created: false
+  - name: test/MirrorTest.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/260/stages/1319/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 09 Feb 2026 10:19:38 UTC"
+record: 4

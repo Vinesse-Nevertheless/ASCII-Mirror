@@ -1,0 +1,65 @@
+type: edu
+files:
+  - name: src/asciimirror/Main.java
+    visible: true
+    learner_created: true
+  - name: ASCII_Animals/camel.txt
+    visible: true
+    learner_created: false
+  - name: ASCII_Animals/cow.txt
+    visible: true
+    learner_created: false
+  - name: test/example1.txt
+    visible: true
+    learner_created: false
+  - name: test/example2.txt
+    visible: true
+    learner_created: false
+  - name: test/example3.txt
+    visible: true
+    learner_created: false
+  - name: test/example4.txt
+    visible: true
+    learner_created: false
+  - name: test/example5.txt
+    visible: true
+    learner_created: false
+  - name: test/MirrorTest.java
+    visible: true
+    learner_created: false
+  - name: src/asciimirror/ASCII_Animals/MooFolder/Cow.txt
+    visible: true
+    learner_created: true
+  - name: src/asciimirror/ASCII_Animals/HumphFolder/Camel.txt
+    visible: true
+    learner_created: true
+  - name: src/test/example1.txt
+    visible: true
+    learner_created: true
+  - name: src/test/example2.txt
+    visible: true
+    learner_created: true
+  - name: src/test/example3.txt
+    visible: true
+    learner_created: true
+  - name: src/test/example4.txt
+    visible: true
+    learner_created: true
+  - name: src/test/example5.txt
+    visible: true
+    learner_created: true
+  - name: src/test/MirrorTest.java
+    visible: true
+    learner_created: true
+  - name: ASCII_Animals/HumphFolder/Camel.txt
+    visible: true
+    learner_created: true
+  - name: ASCII_Animals/MooFolder/Cow.txt
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/260/stages/1318/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 09 Feb 2026 07:44:20 UTC"
+record: 2

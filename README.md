@@ -39,3 +39,11 @@ In this repository, I have included two distinct approaches to the mirroring log
 2. Ensure you have a `.txt` file containing ASCII art within the project directory.
 3. Compile and run `Main.java`.
 4. Input the filename (e.g., `cow.txt`) when prompted.
+
+
+## License
+This project is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) License - see the LICENSE file for details.
+
+![Java](https://img.shields.io/badge/language-Java-orange)
+![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-blue)
+![AI-No-Training](https://img.shields.io/badge/AI-No--Training-red)
